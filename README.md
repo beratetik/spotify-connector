@@ -1,1 +1,2 @@
-# Connect Spotify
+# Spotify Connector
+
