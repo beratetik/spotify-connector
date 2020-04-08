@@ -4,7 +4,7 @@
   "description": "This package allows you to authorize Spotify API",
   "main": "./lib/ConnectSpotify.js",
   "scripts": {
-    "prepublish": "babel src -d lib"
+    "prepare": "babel src -d lib"
   },
   "repository": {
     "type": "git",
